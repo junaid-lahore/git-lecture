@@ -27,6 +27,8 @@ for (let key in person) {
     text += person[key];
 }
 
+//code written at github.com
+
 console.log(Object.entries(car));
 
 const fruits = {banana:100, orange:200, apple:300};
